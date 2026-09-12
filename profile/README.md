@@ -8,6 +8,3 @@ stellar-gasless-relayer	TypeScript backend that wraps signed inner transactions 
 stellar-gasless-sdk	TypeScript client SDK: WebAuthn passkey signing, Freighter/xBull wallet adapters, and a GaslessClient that talks to the relayer.	— (library)
 gasless-relayer-dashboard	Admin console preview — clearly marks which panels are real (live relayer status, a real end-to-end gasless transaction) versus UI mockup.	gasless-relayer-dashboard.vercel.app
 Every README in this suite states plainly what's live and tested versus what's a disclosed, not-yet-built limitation.
-
-Maintainer
-@larryjay007
